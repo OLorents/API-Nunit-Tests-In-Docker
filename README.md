@@ -6,7 +6,7 @@ Install Docker from here https://docs.docker.com/install/
 ```Be sure that Docker runs on Windows container!!!```
 
 **Test docker:**
-- Open up shell in administrator mode
+- Open powershell in administrator mode
 - Execute docker run hello-world
 
 **If it asks about login then:**
