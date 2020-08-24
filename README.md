@@ -57,11 +57,12 @@ The output from the command looks like this example:
 
 ![](/images/6.png)
 
-- Open powershell and navigate to 'yourFolder'\WebApp\WebApp.Tests
+- Open powershell and navigate to 'yourFolder'\WebApp\WebApp.Tests'
 
    ```NUnit Console is compiled using the full .NET Framework and does not currently support .NET Core. To run .NET Core tests from the command line, you need to use 'dotnet test'```
 
 Run tests: 
+
    ```dotnet test --logger trx```
    
 ![](/images/7.png)
