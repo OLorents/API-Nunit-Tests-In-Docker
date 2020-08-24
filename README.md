@@ -2,7 +2,8 @@
 **Prerequisites:**
 
 Install Docker from here https://docs.docker.com/install/
-Be sure that Docker runs on Windows container!!!
+
+```Be sure that Docker runs on Windows container!!!```
 
 **Test docker:**
 - Open up shell in administrator mode
