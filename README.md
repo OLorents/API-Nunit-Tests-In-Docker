@@ -47,7 +47,7 @@ The output from the command looks like this example:
 - Copy the container IPv4 address (for example, 172.30.56.128) and paste into the browser address bar to test the app
 - In Chrome open http://172.30.56.128/api/Product
 
-Run tests locally: 
+**Run tests locally:** 
 
 - Navigate to yourFolder\WebApp\WebApp.Tests and open WebApp.Tests.sln in VS. Current Dockerfile will be used to create image for WebApp.Tests
 
